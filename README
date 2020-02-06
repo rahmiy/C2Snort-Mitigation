@@ -1,4 +1,5 @@
-1) Upload the 10,000+ CVEs that your company is vulnerable to.
-2) Go get coffee, hack a few things.
-3) When the program is finished, copy and paste the information stored in sidList.txt and send it to your SOC team.
-4) All your SOC team has to do now is copy and paste the SIDs in their Snort environments, and you officilally have some form of mitigation in place!
+1) Store your 10,000+ CVEs that your company is vulnerable to in a file called "cve". Make sure each CVE has its own line.
+2) Run the code.
+3) Go get coffee, hack a few things.
+4) When the program is finished, copy and paste the information stored in sidList.txt and send it to your SOC team.
+5) All your SOC team has to do now is copy and paste the SIDs in their Snort environments, and you officilally have some form of mitigation in place!
